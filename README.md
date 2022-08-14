@@ -1,2 +1,3 @@
 # Exercicio_de_revisao_3
- # Exercício de revisão 3  ```python def soma_dos_quadrados (a,b):     c = a**b**2     return c A = int(input("Insira um valor")) B = int(input("Insira um outro valor"))  print(soma_dos_quadrados(A,B)) ```
+Implemente a função soma_dos_quadrados que receba dois numeros e devolve a soma dos seus quadrados.
+Você pode tentar reutilizar a função quadrado definida anteriormente para facilitar a implementação.
